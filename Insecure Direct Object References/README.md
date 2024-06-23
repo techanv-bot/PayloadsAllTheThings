@@ -50,7 +50,7 @@ Here, `user_id=123` is a direct reference to a specific user's profile. If the a
 https://example.com/profile?user_id=124
 ```
 
-![https://lh5.googleusercontent.com/VmLyyGH7dGxUOl60h97Lr57F7dcnDD8DmUMCZTD28BKivVI51BLPIqL0RmcxMPsmgXgvAqY8WcQ-Jyv5FhRiCBueX9Wj0HSCBhE-_SvrDdA6_wvDmtMSizlRsHNvTJHuy36LG47lstLpTqLK](https://raw.githubusercontent.com/techanvconsulting/PayloadsAllTheThings/master/Insecure%20Direct%20Object%20References/Images/idor.png)
+![https://lh5.googleusercontent.com/VmLyyGH7dGxUOl60h97Lr57F7dcnDD8DmUMCZTD28BKivVI51BLPIqL0RmcxMPsmgXgvAqY8WcQ-Jyv5FhRiCBueX9Wj0HSCBhE-_SvrDdA6_wvDmtMSizlRsHNvTJHuy36LG47lstLpTqLK](https://raw.githubusercontent.com/techanv-bot/PayloadsAllTheThings/master/Insecure%20Direct%20Object%20References/Images/idor.png)
 
 
 ### Numeric Value Parameter
