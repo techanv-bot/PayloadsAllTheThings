@@ -1,0 +1,23 @@
+# Metasploit
+
+:warning: Content of this page has been moved to [InternalAllTheThings/command-control/metasploit](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/)
+
+* [Installation](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#installation)
+* [Sessions](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#sessions)
+* [Background handler](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#background-handler)
+* [Meterpreter - Basic](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#meterpreter---basic)
+    * [Generate a meterpreter](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#generate-a-meterpreter)
+    * [Meterpreter Webdelivery](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#meterpreter-webdelivery)
+    * [Get System](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#get-system)
+    * [Persistence Startup](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#persistence-startup)
+    * [Network Monitoring](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#network-monitoring)
+    * [Portforward](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#portforward)
+    * [Upload / Download](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#upload---download)
+    * [Execute from Memory](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#execute-from-memory)
+    * [Mimikatz](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#mimikatz)
+    * [Pass the Hash - PSExec](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#pass-the-hash---psexec)
+    * [Use SOCKS Proxy](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#use-socks-proxy)
+* [Scripting Metasploit](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#scripting-metasploit)
+* [Multiple transports](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#multiple-transports)
+* [Best of - Exploits](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#best-of---exploits)
+* [References](https://techanvconsulting.github.io/InternalAllTheThings/command-control/metasploit/#references)
