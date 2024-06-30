@@ -32,7 +32,7 @@
 
 ## Methodology
 
-![CSRF_cheatsheet](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/CSRF%20Injection/Images/CSRF-CheatSheet.png?raw=true)
+![CSRF_cheatsheet](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/CSRF%20Injection/Images/CSRF-CheatSheet.png?raw=true)
 
 ## Payloads
 
