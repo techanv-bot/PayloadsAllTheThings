@@ -6,13 +6,13 @@ I :heart: pull requests :)
 
 You can also contribute with a :beers: IRL, or using the sponsor button 
 
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/techanvconsulting)](https://github.com/sponsors/techanvconsulting)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@pentest_swissky&url=https://github.com/techanvconsulting/PayloadsAllTheThings/)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/techanv-bot)](https://github.com/sponsors/techanv-bot)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@pentest_swissky&url=https://github.com/techanv-bot/PayloadsAllTheThings/)
 
-An alternative display version is available at [PayloadsAllTheThingsWeb](https://techanvconsulting.github.io/PayloadsAllTheThings/).
+An alternative display version is available at [PayloadsAllTheThingsWeb](https://techanv-bot.github.io/PayloadsAllTheThings/).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techanvconsulting/PayloadsAllTheThings/master/.github/banner.png">
+  <img src="https://raw.githubusercontent.com/techanv-bot/PayloadsAllTheThings/master/.github/banner.png">
 </p>
 
 
@@ -27,35 +27,35 @@ Every section contains the following files, you can use the `_template_vuln` fol
 
 You might also like the `Methodology and Resources` folder :
 
-- [Methodology and Resources](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
-  - [Active Directory Attack.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
-  - [Cloud - AWS Pentest.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
-  - [Cloud - Azure Pentest.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
-  - [Cobalt Strike - Cheatsheet.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cobalt%20Strike%20-%20Cheatsheet.md)
-  - [Linux - Evasion.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Evasion.md)
-  - [Linux - Persistence.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Persistence.md)
-  - [Linux - Privilege Escalation.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
-  - [Metasploit - Cheatsheet.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Metasploit%20-%20Cheatsheet.md)  
-  - [Methodology and enumeration.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Methodology%20and%20enumeration.md)
-  - [Network Pivoting Techniques.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Pivoting%20Techniques.md)
-  - [Network Discovery.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Discovery.md)
-  - [Reverse Shell Cheatsheet.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
-  - [Subdomains Enumeration.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Subdomains%20Enumeration.md)
-  - [Windows - AMSI Bypass.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20AMSI%20Bypass.md)
-  - [Windows - DPAPI.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20DPAPI.md)
-  - [Windows - Download and Execute.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Download%20and%20Execute.md)
-  - [Windows - Mimikatz.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
-  - [Windows - Persistence.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Persistence.md)
-  - [Windows - Privilege Escalation.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
-  - [Windows - Using credentials.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Using%20credentials.md)
+- [Methodology and Resources](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
+  - [Active Directory Attack.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
+  - [Cloud - AWS Pentest.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
+  - [Cloud - Azure Pentest.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
+  - [Cobalt Strike - Cheatsheet.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cobalt%20Strike%20-%20Cheatsheet.md)
+  - [Linux - Evasion.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Evasion.md)
+  - [Linux - Persistence.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Persistence.md)
+  - [Linux - Privilege Escalation.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
+  - [Metasploit - Cheatsheet.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Metasploit%20-%20Cheatsheet.md)  
+  - [Methodology and enumeration.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Methodology%20and%20enumeration.md)
+  - [Network Pivoting Techniques.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Pivoting%20Techniques.md)
+  - [Network Discovery.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Discovery.md)
+  - [Reverse Shell Cheatsheet.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+  - [Subdomains Enumeration.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Subdomains%20Enumeration.md)
+  - [Windows - AMSI Bypass.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20AMSI%20Bypass.md)
+  - [Windows - DPAPI.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20DPAPI.md)
+  - [Windows - Download and Execute.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Download%20and%20Execute.md)
+  - [Windows - Mimikatz.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
+  - [Windows - Persistence.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Persistence.md)
+  - [Windows - Privilege Escalation.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+  - [Windows - Using credentials.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Using%20credentials.md)
 
 
-You want more ? Check the [Books](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/_LEARNING_AND_SOCIALS/BOOKS.md) and [Youtube videos](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/_LEARNING_AND_SOCIALS/YOUTUBE.md) selections.
+You want more ? Check the [Books](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/_LEARNING_AND_SOCIALS/BOOKS.md) and [Youtube videos](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/_LEARNING_AND_SOCIALS/YOUTUBE.md) selections.
 
 
 👨‍💻 Contributions
 -----
-Be sure to read [CONTRIBUTING.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/CONTRIBUTING.md)
+Be sure to read [CONTRIBUTING.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/CONTRIBUTING.md)
 
 
 Thanks again for your contribution! :heart:
