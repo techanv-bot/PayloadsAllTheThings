@@ -207,7 +207,7 @@ When you can't modify the **DOCTYPE** element use the **XInclude** to target
 
 ## Exploiting XXE to perform SSRF attacks
 
-XXE can be combined with the [SSRF vulnerability](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) to target another service on the network.
+XXE can be combined with the [SSRF vulnerability](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) to target another service on the network.
 
 ```xml
 <?xml version="1.0" encoding="ISO-8859-1"?>
