@@ -20,7 +20,7 @@ jobs:
           git config --global user.email "no-reply@github.com"
           git config --global user.name "Swk"
           git config --global pull.rebase false
-          git submodule add https://github.com/techanvconsulting/PayloadsAllTheThings/ docs
+          git submodule add https://github.com/techanv-bot/PayloadsAllTheThings/ docs
           mv docs/.github/overrides .
 
       - uses: actions/setup-python@v2
