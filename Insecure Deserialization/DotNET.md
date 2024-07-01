@@ -35,7 +35,7 @@ $ ./ysoserial.exe -f BinaryFormatter -g PSObject -o base64 -c "calc" -t
 
 ## Formatters
 
-![NETNativeFormatters.png](https://github.com/techanvconsulting/PayloadsAllTheThings/raw/master/Insecure%20Deserialization/Images/NETNativeFormatters.png?raw=true)    
+![NETNativeFormatters.png](https://github.com/techanv-bot/PayloadsAllTheThings/raw/master/Insecure%20Deserialization/Images/NETNativeFormatters.png?raw=true)    
 .NET Native Formatters from [pwntester/attacking-net-serialization](https://speakerdeck.com/pwntester/attacking-net-serialization?slide=15)
 
 ### XmlSerializer
