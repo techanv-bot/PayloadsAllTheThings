@@ -26,7 +26,7 @@
 
 ## Exploits
 
-![file-upload-mindmap.png](https://github.com/techanvconsulting/PayloadsAllTheThings/raw/master/Upload%20Insecure%20Files/Images/file-upload-mindmap.png?raw=true)
+![file-upload-mindmap.png](https://github.com/techanv-bot/PayloadsAllTheThings/raw/master/Upload%20Insecure%20Files/Images/file-upload-mindmap.png?raw=true)
 
 ### Defaults extensions
 
@@ -135,16 +135,16 @@ exiftool -Comment="<?php echo 'Command:'; if($_POST){system($_POST['cmd']);} __h
 ### Configuration Files
 
 If you are trying to upload files to a :
-- PHP server, take a look at the [.htaccess](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Apache%20.htaccess) trick to execute code.
-- ASP server, take a look at the [web.config](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20IIS%20web.config) trick to execute code.
-- uWSGI server, take a look at the [uwsgi.ini](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20uwsgi.ini/uwsgi.ini) trick to execute code.
+- PHP server, take a look at the [.htaccess](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Apache%20.htaccess) trick to execute code.
+- ASP server, take a look at the [web.config](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20IIS%20web.config) trick to execute code.
+- uWSGI server, take a look at the [uwsgi.ini](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20uwsgi.ini/uwsgi.ini) trick to execute code.
 
 Configuration files examples
-- [.htaccess](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Apache%20.htaccess)
-- [web.config](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20IIS%20web.config)
-- [httpd.conf](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Busybox%20httpd.conf)
-- [\_\_init\_\_.py](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Python%20__init__.py)
-- [uwsgi.ini](https://github.com/techanvconsulting/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20uwsgi.ini/uwsgi.ini)
+- [.htaccess](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Apache%20.htaccess)
+- [web.config](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20IIS%20web.config)
+- [httpd.conf](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Busybox%20httpd.conf)
+- [\_\_init\_\_.py](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20Python%20__init__.py)
+- [uwsgi.ini](https://github.com/techanv-bot/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Configuration%20uwsgi.ini/uwsgi.ini)
 
 Alternatively you may be able to upload a JSON file with a custom scripts, try to overwrite a dependency manager configuration file.
 - package.json
