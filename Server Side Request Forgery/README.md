@@ -59,7 +59,7 @@
 
 ## Tools
 
-- [techanvconsulting/SSRFmap](https://github.com/techanvconsulting/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
+- [techanv-bot/SSRFmap](https://github.com/techanv-bot/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
 - [tarunkant/Gopherus](https://github.com/tarunkant/Gopherus) - Generates gopher link for exploiting SSRF and gaining RCE in various servers
 - [In3tinct/See-SURF](https://github.com/In3tinct/See-SURF) - Python based scanner to find potential SSRF parameters
 - [teknogeek/SSRF Sheriff](https://github.com/teknogeek/ssrf-sheriff) - Simple SSRF-testing sheriff written in Go
@@ -251,7 +251,7 @@ http://127.1.1.1:80:\@@127.2.2.2:80/
 http://127.1.1.1:80#\@127.2.2.2:80/
 ```
 
-![https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.png?raw=true](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.jpg?raw=true)
+![https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.png?raw=true](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.jpg?raw=true)
 
 ### Bypassing using a redirect
 [using a redirect](https://portswigger.net/web-security/ssrf#bypassing-ssrf-filters-via-open-redirection)
@@ -313,7 +313,7 @@ ssrf.php?url=http://127.0.0.1:80
 ssrf.php?url=http://127.0.0.1:443
 ```
 
-![SSRF stream](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/SSRF_stream.png?raw=true)
+![SSRF stream](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/SSRF_stream.png?raw=true)
 
 The following URL scheme can be used to probe the network
 
@@ -462,7 +462,7 @@ gopher://127.0.0.1:6379/_save
 
 ## SSRF exploiting PDF file
 
-![https://raw.githubusercontent.com/techanvconsulting/PayloadsAllTheThings/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png](https://raw.githubusercontent.com/techanvconsulting/PayloadsAllTheThings/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png)
+![https://raw.githubusercontent.com/techanv-bot/PayloadsAllTheThings/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png](https://raw.githubusercontent.com/techanv-bot/PayloadsAllTheThings/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png)
 
 Example with [WeasyPrint by @nahamsec](https://www.youtube.com/watch?v=t5fB6OZsR6c&feature=emb_title)
 
@@ -929,4 +929,4 @@ More info: https://rancher.com/docs/rancher/v1.6/en/rancher-services/metadata-se
 - [SSRF: Don't encode entire IP](https://twitter.com/thedawgyg/status/1224547692967342080)
 - [Pong [EN]| FCSC 2024 - vozec - April 12, 2024](https://vozec.fr/writeups/pong-fcsc2024-en/)
 - [Pong [EN]| FCSC 2024 - mizu.re - Apr 13, 2024](https://mizu.re/post/pong)
-- [SSRFmap - Introducing the AXFR module - Swissky - June 13, 2024](https://techanvconsulting.github.io/SSRFmap-axfr/)
+- [SSRFmap - Introducing the AXFR module - Swissky - June 13, 2024](https://techanv-bot.github.io/SSRFmap-axfr/)
