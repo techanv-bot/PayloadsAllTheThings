@@ -107,7 +107,7 @@
 
 ## Methodology
 
-![SSTI cheatsheet workflow](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/Images/serverside.png?raw=true)
+![SSTI cheatsheet workflow](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/Images/serverside.png?raw=true)
 
 
 ## Detection
